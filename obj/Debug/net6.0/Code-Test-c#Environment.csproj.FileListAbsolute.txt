@@ -1,0 +1,15 @@
+/Users/nicholasizosimov/Desktop/Programming/Code-Test-c#Environment/bin/Debug/net6.0/Code-Test-c#Environment
+/Users/nicholasizosimov/Desktop/Programming/Code-Test-c#Environment/bin/Debug/net6.0/Code-Test-c#Environment.deps.json
+/Users/nicholasizosimov/Desktop/Programming/Code-Test-c#Environment/bin/Debug/net6.0/Code-Test-c#Environment.runtimeconfig.json
+/Users/nicholasizosimov/Desktop/Programming/Code-Test-c#Environment/bin/Debug/net6.0/Code-Test-c#Environment.dll
+/Users/nicholasizosimov/Desktop/Programming/Code-Test-c#Environment/bin/Debug/net6.0/Code-Test-c#Environment.pdb
+/Users/nicholasizosimov/Desktop/Programming/Code-Test-c#Environment/obj/Debug/net6.0/Code-Test-c#Environment.csproj.AssemblyReference.cache
+/Users/nicholasizosimov/Desktop/Programming/Code-Test-c#Environment/obj/Debug/net6.0/Code-Test-c#Environment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicholasizosimov/Desktop/Programming/Code-Test-c#Environment/obj/Debug/net6.0/Code-Test-c#Environment.AssemblyInfoInputs.cache
+/Users/nicholasizosimov/Desktop/Programming/Code-Test-c#Environment/obj/Debug/net6.0/Code-Test-c#Environment.AssemblyInfo.cs
+/Users/nicholasizosimov/Desktop/Programming/Code-Test-c#Environment/obj/Debug/net6.0/Code-Test-c#Environment.csproj.CoreCompileInputs.cache
+/Users/nicholasizosimov/Desktop/Programming/Code-Test-c#Environment/obj/Debug/net6.0/Code-Test-c#Environment.dll
+/Users/nicholasizosimov/Desktop/Programming/Code-Test-c#Environment/obj/Debug/net6.0/refint/Code-Test-c#Environment.dll
+/Users/nicholasizosimov/Desktop/Programming/Code-Test-c#Environment/obj/Debug/net6.0/Code-Test-c#Environment.pdb
+/Users/nicholasizosimov/Desktop/Programming/Code-Test-c#Environment/obj/Debug/net6.0/Code-Test-c#Environment.genruntimeconfig.cache
+/Users/nicholasizosimov/Desktop/Programming/Code-Test-c#Environment/obj/Debug/net6.0/ref/Code-Test-c#Environment.dll
